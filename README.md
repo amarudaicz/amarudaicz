@@ -1,4 +1,4 @@
-### <div align="center">I'm Amaru Daicz, software developer
+### <div align="center">Amaru Daicz, software developer
 
 
 
