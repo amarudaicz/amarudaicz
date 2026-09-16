@@ -1,12 +1,4 @@
-### <div align="center">I'm Amaru Daicz, a full-stack developer 👨‍💻 working freelance since 2020🚀</div>  
-  
-
-- 🔭 I’m currently working on React Native app 
-  
-  
-
-- 🌱 I’m currently learning React Native  
-  
+### <div align="center">I'm Amaru Daicz, software developer
 
 
 
